@@ -36,15 +36,15 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
- [ <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />](https://github-readme-stats.vercel.app/api?username=lojainjahir&show_icons=true&theme=tokyonight
-)
+  <img src="https://github-readme-stats.vercel.app/api?username=lojainjahir&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
 
 ---
 
