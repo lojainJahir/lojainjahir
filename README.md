@@ -1,15 +1,50 @@
-**👋 Hi, I'm Lojain**
+<h1 align="center">👋 Hi, I'm Lojain</h1>
+<h3 align="center">Software Engineering Student | AI Enthusiast 🤖</h3>
 
-I'm a Software Engineering student with a strong interest in Artificial Intelligence and how it can be used to solve real-world problems. I enjoy learning new technologies and continuously developing my technical skills.
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
+</p>
 
-**🎓 What I'm Studying**
-- Software Engineering
-- Learning topics like algorithms, software development, and distributed systems
+---
 
-**🤖 Programming Interests**
-- Artificial Intelligence and Machine Learning
-- Applying AI to practical domains (e.g., healthcare and data analysis)
-- Problem-solving and algorithmic thinking
-- Writing clean, efficient, and maintainable code
+### 👩‍💻 About Me
+- 🎓 Software Engineering student  
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**  
+- 🌍 Interested in solving **real-world problems using AI**  
+- 🌱 Always learning, experimenting, and improving  
 
-🌱 I'm always eager to learn new AI concepts, tools, and frameworks and apply them through hands-on projects.
+---
+
+### 🎓 What I'm Studying
+- Software Engineering  
+- Algorithms & Data Structures  
+- Distributed Systems  
+- Software & Web Development  
+
+---
+
+### 🤖 Programming Interests
+- Artificial Intelligence  
+- Machine Learning  
+- AI in healthcare & data analysis  
+- Problem-solving & logical thinking  
+- Clean, efficient, and maintainable code  
+
+---
+
+### 🛠️ Tech & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+✨ *Building step by step, learning every day.*
